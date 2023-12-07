@@ -35,7 +35,7 @@ The Hugging Face Model Scraper is a Python web scraping tool designed to extract
 
 ## Documentation
 Class: HuggingFaceScraper
-Methods:
+## Methods:
 - **run():** Initiates the web scraping process.
 - **fetch_html_content(url):** Fetches HTML content from a given URL.
 - **get_or_cache_html(url, cache):** Retrieves HTML content from the cache or fetches and caches it.
